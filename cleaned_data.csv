@@ -5,10 +5,10 @@ Philip,Leo,25,M,Uganda,Sognsvann,55,HighSchool,130,74.0,50
 Shoni,Hlongwane,22,F,South Africa,Sognsvann,40,HighSchool,156,81.0,44
 Maria,Kedibone,23,F,South Africa,Sognsvann,65,HighSchool,156,91.0,80
 Hannah,Hansen,25,F,Norway,BI Residence,66,HighSchool,130,88.0,59
-Ole,Johansen,27,M,Norway,BI-Residence,90,Bachelors,156,80.0,91
-Lars,Olsen,29,M,Norway,BIResidence,89,Bachelors,160,85.0,60
+Ole,Johansen,27,M,Norway,BI Residence,90,Bachelors,156,80.0,91
+Lars,Olsen,29,M,Norway,BI Residence,89,Bachelors,160,85.0,60
 Bjørn,Larsen,31,M,Norway,BI Residence,88,Bachelors,156,80.0,89
-Sofie,Jensen,33,F,Denmark,BI_Residence,85,Bachelors,160,83.0,90
+Sofie,Jensen,33,F,Denmark,BI Residence,85,Bachelors,160,83.0,90
 Emma,de Vries,34,F,Netherlands,BI Residence,65,Bachelors,156,79.0,58
 Solveig,Eliassen,36,F,Norway,Private,70,Diploma,156,80.0,55
 Odd,Knudsen,38,M,Norway,Private,91,Diploma,156,85.0,99
@@ -31,7 +31,7 @@ Kato,Muwanguzi,39,M,Uganda,Private,80,Bachelors,156,81.0,69
 Nansubuga,Nakalema,41,F,Uganda,Private,86,Bachelors,154,81.0,91
 Joakim,Edvardsen,44,M,Norway,Private,78,Diploma,152,80.0,79
 Don,Pettersen,46,M,Norway,Private,76,Diploma,156,85.0,45
-Perry,Rønning,71,F,Norway,Private,30,Doctorate,156,31.0,42
+Perry,Rønning,33,F,Norway,Private,30,Doctorate,156,31.0,42
 Frank,Abrahamsen,23,M,Norway,BI Residence,68,HighSchool,152,81.0,70
 Line,Næss,25,F,Norway,BI Residence,98,HighSchool,160,90.0,90
 Thor,Sandvik,27,M,Norway,BI Residence,85,Bachelors,158,84.0,90
@@ -54,7 +54,7 @@ Mwanaidi,Ali,32,F,Somali,BI Residence,82,Bachelors,156,84.0,59
 Bjørn,Pedersen,21,F,Norway,BI Residence,70,HighSchool,138,69.0,47
 Chinedu,Morison,36,M,Nigeria,Private,28,Diploma,156,15.0,67
 Irene,Strømertan,38,F,Norway,Private,80,Masters,158,84.0,50
-Chinedu,Okafor,69,M,Nigeria,Private,94,Doctorate,160,87.0,88
+Chinedu,Okafor,33,M,Nigeria,Private,94,Doctorate,160,87.0,88
 Marianne,Ruud,42,M,Norway,Private,91,Doctorate,158,84.0,82
 Jens,Lunde,25,M,Norway,BI Residence,90,HighSchool,156,81.0,100
 Morten,Olsen,46,F,Norway,Private,94,Doctorate,160,90.0,77
